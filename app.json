@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Guni-Corn",
+    "icon": "./unicornIcon.png",
+    "slug": "LifeHackApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.geetee.LifeHackApp"
+    },
+    "sdkVersion": "42.0.0"
+  },
+  "name": "Guni-Corn",
+  "privacy": "public"
+}

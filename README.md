@@ -1,1 +1,1 @@
-# LIfeHack-App-public
+# LifeHack-App
